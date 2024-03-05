@@ -1,6 +1,6 @@
 ZUTATEN:
 250 g       weiche Butter
-160 g       Zucker
+150 g       Zucker
 1 Pck.      Vanillinzucker
 1 Prise     Salz
 5           Eier (Gr. M)
@@ -16,3 +16,4 @@ SCHRITTE:
 3. Form fetten
 4. In Form geben
 5. Bei 200°C für 30 Minuten backen
+6. Mit einem Zahnstocher schauen, ob schon durch, ansonsten nochmals 5min
