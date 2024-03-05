@@ -2,13 +2,14 @@
 gitGraph
     commit
     commit
-    branch dev
-    checkout dev
+    commit
+    commit
+    branch dev1
+    checkout dev1
     commit
     commit
     commit
     checkout main
-    merge dev
     commit
-    checkout dev
+    commit
 ```
